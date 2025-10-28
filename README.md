@@ -112,8 +112,8 @@ These insights provide a strong foundation for marketing campaigns, inventory pl
 
 📈 Download and explore the interactive Excel dashboard:
 Pizza Sales Dashboard (Excel)
- (add link once uploaded)
-
+ https://github.com/mayank235-ai/Pizza_data_analysis/blob/main/pizza_dashboad.png
+ 
 📁 Repository Structure
 Pizza_Sales_Analytics/
 │
