@@ -33,12 +33,15 @@ unit_price	Price per pizza
 total_price	Total price for that line item
 pizza_category	Category of pizza (Classic, Veggie, etc.)
 pizza_size	Size of pizza (S, M, L, XL, etc.)
-🧰 Tools & Technologies
-Tool	Purpose
+
+
+🧰 Tools & Technologies Tool	Purpose
+
 🐘 PostgreSQL	Data storage, SQL querying, and analysis
 📊 Microsoft Excel	Dashboard design and data visualization
 ⚙️ Power Query	Data import and transformation
 📈 Pivot Tables & Charts	KPI visualization and trend exploration
+
 🔍 Project Workflow
 1️⃣ Data Import and Setup
 
