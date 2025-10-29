@@ -111,18 +111,21 @@ Least ordered pizzas: Brie Carre and Mediterranean
 🧾 Dashboard Sneak Peek
 
 An Excel dashboard was designed to visually track KPIs such as revenue, order trends, and category performance.
-👉 (Add download link or image once uploaded)
+https://github.com/mayank235-ai/Pizza_sales_analysis/blob/main/pizza_dashboad.png
 
 
----
 
 📁 Repository Structure
 
 Pizza_Sales_Analysis/
 │
+
 ├── pizza_sales.csv
+
 ├── queries.sql
-├── pizza_sales_dashboard.xlsx
+
+├── pizza_sales_dashboard.png
+
 ├── README.md
 
 
