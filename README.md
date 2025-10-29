@@ -23,23 +23,27 @@ By the end, the analysis highlights clear sales drivers and improvement opportun
 The dataset represents one year of transactional data from a fictional pizza store.
 
 Column Name	Description
-order_id	Unique identifier for each order
-pizza_id	Unique ID for each pizza sold
-pizza_name_id	Coded pizza name
-quantity	Number of pizzas ordered
-order_date	Date of the order
-order_time	Time of the order
-unit_price	Price per pizza
-total_price	Total price for that line item
-pizza_category	Category of pizza (Classic, Veggie, etc.)
-pizza_size	Size of pizza (S, M, L, XL, etc.)
+order_id -	Unique identifier for each order,
+pizza_id	-Unique ID for each pizza sold
+pizza_name_id -	Coded pizza name,
+quantity	- Number of pizzas ordered
+order_date -	Date of the order,
+order_time	- Time of the order,
+unit_price	Price per pizza,
+total_price -	Total price for that line item,
+pizza_category	- Category of pizza (Classic, Veggie, etc.),
+pizza_size	- Size of pizza (S, M, L, XL, etc.)
 
 
 🧰 Tools & Technologies Tool	Purpose
 
-🐘 PostgreSQL	Data storage, SQL querying, and analysis
+🐘 PostgreSQL	Data storage 
+SQL querying, and analysis
+
 📊 Microsoft Excel	Dashboard design and data visualization
+
 ⚙️ Power Query	Data import and transformation
+
 📈 Pivot Tables & Charts	KPI visualization and trend exploration
 
 🔍 Project Workflow
