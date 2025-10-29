@@ -117,8 +117,7 @@ https://github.com/mayank235-ai/Pizza_sales_analysis/blob/main/pizza_dashboad.pn
 
 📁 Repository Structure
 
-Pizza_Sales_Analysis/
-│
+Pizza_Sales_Analysis 
 
 ├── pizza_sales.csv
 
